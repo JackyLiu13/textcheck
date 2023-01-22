@@ -328,7 +328,7 @@ section {
 }
 
 .header .logo h1 span {
-  color: #f96f59;
+  color: #e7ef73;
 }
 
 .sticked-header-offset {
@@ -438,7 +438,7 @@ section {
     font-size: 15px;
     text-transform: none;
     font-weight: 600;
-    color: #006a5d;
+    color: #92c9f5;
   }
 
   .navbar .dropdown ul a i {
@@ -1948,7 +1948,7 @@ section {
   border-radius: 25px;
 }
 
-.hero .btn-get-started {
+.btn-get-started {
   font-family: var(--font-primary);
   font-weight: 500;
   font-size: 15px;
@@ -1963,7 +1963,7 @@ section {
   border: 2px solid rgba(255, 255, 255, 0.1);
 }
 
-.hero .btn-get-started:hover {
+.btn-get-started:hover {
   border-color: rgb(255, 255, 255);
   background: rgb(175, 215, 255);
 
@@ -2027,7 +2027,7 @@ section {
   padding: 60px 30px;
   position: relative;
   overflow: hidden;
-  background: #008d7d;
+  background: #92c9f5;
   box-shadow: 0 0 29px 0 rgba(0, 0, 0, 0.08);
   transition: all 0.3s ease-in-out;
   border-radius: 8px;
