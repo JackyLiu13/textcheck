@@ -1336,7 +1336,7 @@ section {
   ),url("/assets/img/bg.png");}
   @media screen and (max-width: 768px) {
     .blog{
-      zoom:290%!important;
+      zoom:60%!important;
     }
   }
 .blog iframe{
@@ -1348,7 +1348,12 @@ section {
   background-color: #063358;
   border-radius: 25px;
   padding: 20px;
-  margin: 20px;
+  margin-bottom: 15px;
+}
+.blog .btn-full{
+  background-color: #063358;
+  border-radius: 25px;
+  padding: 15px;
 }
 
 /*--------------------------------------------------------------
