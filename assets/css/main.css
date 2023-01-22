@@ -243,6 +243,17 @@ section {
     transition-delay: 0 !important;
   }
 }
+.pupper{
+  width: 20%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+@media screen and (max-width: 768px) {
+  .pupper{
+    width: 100%;
+  }
+}
 
 /*--------------------------------------------------------------
 # Header
