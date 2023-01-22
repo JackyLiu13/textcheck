@@ -443,7 +443,6 @@ section {
     left: -100%;
   }
 }
-
 @media (min-width: 1280px) {
 
   .mobile-nav-show,
@@ -571,7 +570,7 @@ section {
     content: "";
     position: fixed;
     inset: 0;
-    background: rgba(0, 106, 93, 0.8);
+    background: rgba(88, 159, 226, 0.468);
     z-index: 9996;
   }
 }
@@ -1119,6 +1118,12 @@ section {
   border-radius: 25px;
 }
 
+#bar{
+  background: #589FE2;
+  padding: 10px 20px;
+  border-radius: 25px;
+  font: white;
+}
 .btn-get-started {
   font-family: var(--font-primary);
   font-weight: 500;
