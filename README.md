@@ -1,5 +1,5 @@
 # textchecks
-<a href="https://devpost.com/software/textchecks"><h1>DevPost<h1></a>
+[#Devpost](https://devpost.com/software/textchecks)
 ## 💡**Inspiration**
 The apparent rise of mental health crises in post-secondary institutions over the past few years has unveiled a small part of a long existing issue. University students have always seemed a bit sad, but in all of history, it’s never been this bad. With 1 in 5 seriously contemplating suicide in the last year and nearly half in Ontario reporting unmet mental health needs, we could all use a caring, conventional, and confidential friend who points you in the right direction and answers any questions you may have. In creating TextChecks, our hope is to connect students to a system they can depend on as they undertake the process of understanding their identity and place in the world.
 
